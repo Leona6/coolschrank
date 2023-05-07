@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
 
 /**
- * RestController for managing fridge operations.
+ * *RestController for managing fridge operations.
  */
 @RestController
 @RequestMapping("/fridge")
